@@ -1,0 +1,124 @@
+Uri: https://www.logged.tg/auth
+File Name: D:\www.logged.tg\auth.html
+Content Type: text/html
+
+Uri: https://www.logged.tg/favicon.ico
+File Name: D:\www.logged.tg\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.logged.tg/_next/static/chunks/1255-66dbef5ec35cd45b.js
+File Name: D:\www.logged.tg\_next\static\chunks\1255-66dbef5ec35cd45b.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/1858-160f065ab96bcf0f.js
+File Name: D:\www.logged.tg\_next\static\chunks\1858-160f065ab96bcf0f.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/2187-e696363137972ee1.js
+File Name: D:\www.logged.tg\_next\static\chunks\2187-e696363137972ee1.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/3360-80a121968c7865af.js
+File Name: D:\www.logged.tg\_next\static\chunks\3360-80a121968c7865af.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/3908-618779f0fca8f5c6.js
+File Name: D:\www.logged.tg\_next\static\chunks\3908-618779f0fca8f5c6.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js
+File Name: D:\www.logged.tg\_next\static\chunks\4bd1b696-100b9d70ed4e49c1.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/5112-fc748f4a27352121.js
+File Name: D:\www.logged.tg\_next\static\chunks\5112-fc748f4a27352121.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/5239-b5d471afce036544.js
+File Name: D:\www.logged.tg\_next\static\chunks\5239-b5d471afce036544.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/6823-9467c2fd5babcb89.js
+File Name: D:\www.logged.tg\_next\static\chunks\6823-9467c2fd5babcb89.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/7510-0f693860cf9f30f4.js
+File Name: D:\www.logged.tg\_next\static\chunks\7510-0f693860cf9f30f4.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/7676-834b4b3759ddc6e5.js
+File Name: D:\www.logged.tg\_next\static\chunks\7676-834b4b3759ddc6e5.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/8720-c9ee040177c11cae.js
+File Name: D:\www.logged.tg\_next\static\chunks\8720-c9ee040177c11cae.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/8751-f05af9dc1447b871.js
+File Name: D:\www.logged.tg\_next\static\chunks\8751-f05af9dc1447b871.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/8e1d74a4-744baf8ebbae6a58.js
+File Name: D:\www.logged.tg\_next\static\chunks\8e1d74a4-744baf8ebbae6a58.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/9090-6baa2de1296669f5.js
+File Name: D:\www.logged.tg\_next\static\chunks\9090-6baa2de1296669f5.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/9354-207a5f08d79ffb19.js
+File Name: D:\www.logged.tg\_next\static\chunks\9354-207a5f08d79ffb19.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/9782-f141616a928c505c.js
+File Name: D:\www.logged.tg\_next\static\chunks\9782-f141616a928c505c.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/9c4e2130-77a74882419ff927.js
+File Name: D:\www.logged.tg\_next\static\chunks\9c4e2130-77a74882419ff927.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/app/(auth)/auth/page-78fea8ebb81ab474.js
+File Name: D:\www.logged.tg\_next\static\chunks\app\(auth)\auth\page-78fea8ebb81ab474.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/app/layout-7bbb614015bf0f2f.js
+File Name: D:\www.logged.tg\_next\static\chunks\app\layout-7bbb614015bf0f2f.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/app/not-found-029e69b88a454429.js
+File Name: D:\www.logged.tg\_next\static\chunks\app\not-found-029e69b88a454429.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/f4898fe8-c7362581d295fb72.js
+File Name: D:\www.logged.tg\_next\static\chunks\f4898fe8-c7362581d295fb72.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/main-app-6e5a7d85c80a7360.js
+File Name: D:\www.logged.tg\_next\static\chunks\main-app-6e5a7d85c80a7360.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: D:\www.logged.tg\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/chunks/webpack-af1fb97934f5741d.js
+File Name: D:\www.logged.tg\_next\static\chunks\webpack-af1fb97934f5741d.js
+Content Type: application/javascript
+
+Uri: https://www.logged.tg/_next/static/css/3ab1abec17a20427.css
+File Name: D:\www.logged.tg\_next\static\css\3ab1abec17a20427.css
+Content Type: text/css
+
+Uri: https://www.logged.tg/_next/static/css/9858037f13d16468.css
+File Name: D:\www.logged.tg\_next\static\css\9858037f13d16468.css
+Content Type: text/css
+
+Uri: https://www.logged.tg/_next/static/media/21350d82a1f187e9-s.p.woff2
+File Name: D:\www.logged.tg\_next\static\media\21350d82a1f187e9-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.logged.tg/_next/static/media/e4af272ccee01ff0-s.p.woff2
+File Name: D:\www.logged.tg\_next\static\media\e4af272ccee01ff0-s.p.woff2
+Content Type: font/woff2
+
